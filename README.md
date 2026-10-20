@@ -15,8 +15,6 @@ Get the latest demo from the **[GitHub Releases](../../releases/latest)** page.
 | Windows | `Minecrawler_Demo_vX.Y.Z.zip` | Extract the entire ZIP, then launch `Minecrawler.exe` (or the included game executable). Keep the accompanying files together. |
 | Android | `Minecrawler_Demo_vX.Y.Z.apk` | Download the APK to your Android device and install it. Android may ask you to allow installation from this source. |
 
-> **Note:** Download the build files from **Releases**, not from GitHub's **Code → Download ZIP** menu. That menu downloads repository contents, not the playable game.
-
 ## Features
 
 - **5 playable levels** in the demo

@@ -36,6 +36,8 @@ Get the latest demo from the **[GitHub Releases](../../releases/latest)** page.
 
 ![Minecrawler gameplay screenshot 4](Screenshots/Screenshot%202026-10-20%20224453.png)
 
+![Minecrawler gameplay screenshot 5](Screenshots/Screenshot%202026-10-20%20225351.png)
+
 ## Demo vs. Full Game
 
 | Feature | Demo | Full game |

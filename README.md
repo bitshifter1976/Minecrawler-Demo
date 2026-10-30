@@ -26,15 +26,15 @@ Get the latest demo from the **[GitHub Releases](../../releases/latest)** page.
 
 ## Screenshots
 
-![Minecrawler gameplay screenshot 1](Screenshots/Screenshot1.png)
+![Minecrawler gameplay screenshot 1](Screenshots/Screenshot1.png?v=2)
 
-![Minecrawler gameplay screenshot 2](Screenshots/Screenshot2.png)
+![Minecrawler gameplay screenshot 2](Screenshots/Screenshot2.png?v=2)
 
-![Minecrawler gameplay screenshot 3](Screenshots/Screenshot3.png)
+![Minecrawler gameplay screenshot 3](Screenshots/Screenshot3.png?v=2)
 
-![Minecrawler gameplay screenshot 4](Screenshots/Screenshot4.png)
+![Minecrawler gameplay screenshot 4](Screenshots/Screenshot4.png?v=2)
 
-![Minecrawler gameplay screenshot 5](Screenshots/Screenshot5.png)
+![Minecrawler gameplay screenshot 5](Screenshots/Screenshot5.png?v=2)
 
 ## Demo vs. Full Game
 
